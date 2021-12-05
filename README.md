@@ -1,70 +1,34 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+HomePage:
+This page includes Header ,Footer Navbar,List of Crypto ,List of news
+![image](https://user-images.githubusercontent.com/67023201/144759884-6b152933-d527-4d2c-b9de-89d256c04a04.png)
+![image](https://user-images.githubusercontent.com/67023201/144759926-d1fe1ebf-af29-42b5-a92c-81b217b6d486.png)
+![image](https://user-images.githubusercontent.com/67023201/144759937-37df4750-e43c-4bb6-a955-eeeb048eab59.png)
+![image](https://user-images.githubusercontent.com/67023201/144759943-d8170e06-f9dd-49a0-9bce-df83d826a59d.png)
+Cryptocurrency Page:
+Here you can see list of All cryto coins
+![image](https://user-images.githubusercontent.com/67023201/144759993-822fdb23-13c5-4f52-8bf9-c043664c8765.png)
+![image](https://user-images.githubusercontent.com/67023201/144759999-0b4a6a51-b4f0-412b-83ac-c5393db904c4.png)
+you can search Crypto coin here using search 
+![image](https://user-images.githubusercontent.com/67023201/144760113-3a55b1a2-e890-4889-b417-c4120e51fc88.png)
 
-## Available Scripts
+Exchanges:
+here you can see List to exchanges are there for investing :
+![image](https://user-images.githubusercontent.com/67023201/144760039-18d59cd3-1ef3-4ada-9934-32f471b3928e.png)
+![image](https://user-images.githubusercontent.com/67023201/144760053-32a6a4e8-16d7-49e8-b145-1e6f2cf1d452.png)
+News:
+Here you get All news about crypto
+![image](https://user-images.githubusercontent.com/67023201/144760061-1edde7c5-87e6-40ed-83f7-b260ec51c8b1.png)
+You can filter out to perticular Crypto coin
+![image](https://user-images.githubusercontent.com/67023201/144760084-1dfb92b6-2b14-4018-881e-05269d3d6ac2.png)
+Crypto coin Deatils:
+for navigation to this page just click on any crypto coin on homepage or cryptocurrency page:
+Here you get all the information about crypto
+![image](https://user-images.githubusercontent.com/67023201/144760137-992d0ce9-100a-4382-a170-c72b861ca4bb.png)
+![image](https://user-images.githubusercontent.com/67023201/144760172-d34afff5-fdf6-4e2a-b5c3-03ccd2104297.png)
+![image](https://user-images.githubusercontent.com/67023201/144760177-0452ab1b-451d-4cab-97b6-e93cbb8c1e20.png)
 
-In the project directory, you can run:
+You can see change in price:Using this drop down
+![image](https://user-images.githubusercontent.com/67023201/144760201-f658d52c-7b68-495a-b0fa-c5fe0dcca9e0.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
